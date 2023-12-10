@@ -3,16 +3,6 @@ Welcome to the Memory Card Matching Game! This is a classic memory-based game wh
 
 
 
-![Screenshot 2023-12-10 144100](https://github.com/rrtk857/Card-Matching-Game/assets/129523259/6f1d961b-d7ba-4e2f-98af-ccff6d2ea0fc)
-
-
-
-
-![Screenshot 2023-12-10 144335](https://github.com/rrtk857/Card-Matching-Game/assets/129523259/aebb0005-d7fe-4192-895e-8501b96eac2a)
-
-
-
-
 ## Features:
 
 + **Memory Challenge:**  Test and enhance your memory by finding matching pairs of cards.
@@ -48,3 +38,14 @@ Feel free to customize the game by changing symbols, board size, or adding new f
 ## Contributon
 
 Contributions are welcome! If you find a bug or have an enhancement in mind, open an issue or submit a pull request.
+
+
+
+![Screenshot 2023-12-10 144100](https://github.com/rrtk857/Card-Matching-Game/assets/129523259/6f1d961b-d7ba-4e2f-98af-ccff6d2ea0fc)
+
+
+
+
+![Screenshot 2023-12-10 144335](https://github.com/rrtk857/Card-Matching-Game/assets/129523259/aebb0005-d7fe-4192-895e-8501b96eac2a)
+
+
